@@ -20,17 +20,14 @@
 
 title: Tsoloane Moahloli
 email: tsoloane@moahloli.za.net
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a software developer with 15 years of 
-  Java EE experience, while also dabbling 
-  in other programming languages doing some 
-  DevOps/Infrastructure work.
-  
-  In this here space I share my thoughts and work history with the world.
+description:
+  Experienced Software developer who thrives on finding innovative solutions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: tsoloane
 github_username:  tsoloane
+linkedin_username: tsoloane
 
 # Build settings
 theme: minima
