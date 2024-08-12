@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "Tšoloane Moahloli"
+email: tsoloane@moahloli.za.net
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  Goal-focused, technologically sophisticated Senior Software Engineer 
+  with comprehensive experience in planning, 
+  developing, and implementing cutting-edge solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter: tsoloane
+github: tsoloane
 
 header_image: assets/profile.png
 
@@ -37,12 +37,10 @@ disqus: purelog-jekyll
 
 author: Brennan K. Brown
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  Goal-focused, technologically sophisticated Senior Software Engineer 
+  with comprehensive experience in planning, 
+  developing, and implementing cutting-edge solutions.
+author_pic: https://media.licdn.com/dms/image/v2/D4D03AQEGST0lJRttxw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1677480806844?e=1729123200&v=beta&t=z4wOWHEWo6D-XR6RMnOF13LXtsfT23wQKbGS_De-vMw
 paginate: 4
 paginate_path: "/:num/"
 
