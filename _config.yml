@@ -28,14 +28,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: tsoloane
 github: tsoloane
+linkedin: tsoloane
 
 header_image: assets/profile.png
 
-google_analytics:
 comments: true
-disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Tšoloane Moahloli
 author_bio: >-
   Goal-focused, technologically sophisticated Senior Software Engineer 
   with comprehensive experience in planning, 
@@ -64,7 +63,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
+      author: Tšoloane Moahloli
       avatar: assets/profile-sm.png
   - scope:
       path: ""
