@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "01. Unveiling Universal Data Models for App Developers"
+title:  "02. Exploring Types of Universal Data Models"
 ---
+
 # 02. Exploring Types of Universal Data Models
 
 ## Introduction
@@ -12,7 +13,7 @@ In our first post, we discussed the importance of Universal Data Models (UDMs) a
 
 Universal Data Models can be categorized into three main types: Conceptual, Logical, and Physical. Each type serves a distinct purpose in the development lifecycle and offers unique advantages.
 
-### 1. Conceptual Data Models
+## 1. Conceptual Data Models
 
 **Definition and Purpose:** Conceptual Data Models provide a high-level view of the data within an application or system. They outline the entities, attributes, and relationships without focusing on technical details or data storage mechanisms.
 
