@@ -2,6 +2,7 @@
 layout: post
 title:  "01. Unveiling Universal Data Models for App Developers"
 category: "Universal Data Models"
+tags: ["Data Modelling", "Relational Database", SQL]
 ---
 
 # Dive into Universal Data Models 

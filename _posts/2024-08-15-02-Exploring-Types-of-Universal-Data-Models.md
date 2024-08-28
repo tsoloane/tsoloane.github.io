@@ -4,7 +4,9 @@ title:  "02. Exploring Types of Universal Data Models"
 category: "Universal Data Models"
 ---
 
-# 02. Exploring Types of Universal Data Models
+# Dive into Universal Data Models
+
+## 02. Exploring Types of Universal Data Models
 
 ## Introduction
 
