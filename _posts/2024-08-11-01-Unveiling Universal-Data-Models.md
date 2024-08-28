@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "01. Unveiling Universal Data Models for App Developers"
+category: "Universal Data Models"
 ---
 
 # Dive into Universal Data Models 
