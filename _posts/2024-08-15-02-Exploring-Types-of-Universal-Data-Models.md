@@ -2,11 +2,10 @@
 layout: post
 title:  "02. Exploring Types of Universal Data Models"
 category: "Universal Data Models"
+tags: ["Data Modelling", "Relational Database", SQL]
 ---
 
-# Dive into Universal Data Models
-
-## 02. Exploring Types of Universal Data Models
+# Universal Data Models - 02. Exploring Types of Universal Data Models
 
 ## Introduction
 

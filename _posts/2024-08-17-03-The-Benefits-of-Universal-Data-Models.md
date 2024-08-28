@@ -2,6 +2,7 @@
 layout: post
 title:  "03. The Benefits of Universal Data Models"
 category: "Universal Data Models"
+tags: ["Data Modelling", "Relational Database", SQL]
 ---
 
 # Dive into Universal Data Models 
